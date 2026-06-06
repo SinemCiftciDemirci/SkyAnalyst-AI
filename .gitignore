@@ -1,0 +1,14 @@
+# Generated data - recreated by generate_data.py and build_vector_db.py
+data/cabin_reports.csv
+data/cabin_vector_db/
+
+# Virtual environment - recreated by requirements.txt
+.venv/
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+
+# Screenshots
+screenshots/
